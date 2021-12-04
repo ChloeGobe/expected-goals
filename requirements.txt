@@ -1,0 +1,10 @@
+## Data wrangling
+pandas==1.2
+numpy==1.20.2
+
+## Data Visualization
+seaborn==0.11.2
+matplotlib==3.2.2
+
+# Machine Learning
+scikit-learn==0.24.2
